@@ -1,2 +1,2 @@
 # TCTApp
-An mobile app for TCT Challenge
+A mobile app for TCT Challenge
